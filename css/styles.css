@@ -1,0 +1,127 @@
+body{
+  width: 1440px;
+  font-size: 15px;
+}
+
+p{
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca', sans-serif;
+  width: 90%;
+  font-size: 0.80rem;
+}
+
+h1{
+  color: hsl(0, 0%, 95%);
+  font-family: 'Big Shoulders Text', cursive;
+  font-weight: normal;
+}
+
+svg{
+  padding-bottom: 15px;
+}
+
+div{
+
+}
+.sedans{
+  text-align: left;
+  position: absolute;
+  bottom: 200px;
+  width: 200px;
+  height: 350px;
+  padding: 20px 20px 20px 30px;
+  left: 345px;
+  background-color: hsl(31, 77%, 52%);
+  border-radius: 7px 0 0 7px;
+}
+
+.btn1 {
+  position: absolute;
+  bottom: 50px;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: hsl(31, 77%, 52%);
+  font-size: 15px;
+  background: hsl(0, 0%, 95%);
+  padding: 10px 10px 10px 10px;
+  border: solid hsl(0, 0%, 95%) 2px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background: hsl(31, 77%, 52%);
+  text-decoration: none;
+  color: hsl(0, 0%, 95%);
+}
+
+.suvs{
+  text-align: left;
+  position: absolute;
+  bottom: 200px;
+  width: 200px;
+  height: 350px;
+  padding: 20px 20px 20px 30px;
+  left: 595px;
+  background-color: hsl(184, 100%, 22%);
+}
+.btn2 {
+  position: absolute;
+  bottom: 50px;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: hsl(184, 100%, 22%);
+  font-size: 15px;
+  background: hsl(0, 0%, 95%);
+  padding: 10px 10px 10px 10px;
+  border: solid hsl(0, 0%, 95%) 2px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  background: hsl(184, 100%, 22%);
+  text-decoration: none;
+  color: hsl(0, 0%, 95%);
+}
+
+.luxury{
+  text-align: left;
+  position: absolute;
+  bottom: 200px;
+  width: 200px;
+  height: 350px;
+  padding: 20px 20px 20px 30px;
+  left: 845px;
+  background-color: hsl(179, 100%, 13%);
+  border-radius: 0 7px 7px 0;
+}
+
+.btn3 {
+  position: absolute;
+  bottom: 50px;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: hsl(179, 100%, 13%);
+  font-size: 15px;
+  background: hsl(0, 0%, 95%);
+  padding: 10px 10px 10px 10px;
+  border: solid hsl(0, 0%, 95%) 2px;
+  text-decoration: none;
+}
+
+.btn3:hover {
+  background: hsl(179, 100%, 13%);
+  text-decoration: none;
+  color: hsl(0, 0%, 95%);
+}
+
+.attribution{
+  position: absolute;
+  bottom: 50px;
+  right: 45%;
+}
